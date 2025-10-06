@@ -4,7 +4,7 @@ This repository contains Java implementations of Two computer science problems i
 
 ---
 
-### 1. Dining Philosophers Problem (`DiningPhilosphers/`)
+### 1. Dining Philosophers Problem (`DiningPhilosphers`)
 
 A simulation of the **Dining Philosophers problem**, a classic synchronization challenge demonstrating **deadlock prevention** and **resource sharing** among concurrent threads.
 
